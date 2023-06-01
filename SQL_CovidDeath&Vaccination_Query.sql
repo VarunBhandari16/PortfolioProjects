@@ -1,3 +1,5 @@
+# Part 2 in which we are going to use CovidVaccination table as well.
+
 Select *
 from PortProject..CovidVacinations
 
