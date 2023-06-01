@@ -1,5 +1,5 @@
---Select *
---from PortProject..CovidVacinations
+Select *
+from PortProject..CovidVacinations
 
 -- Join some columns of CovidDeaths and CovidVaccinations 
 
